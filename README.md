@@ -1,25 +1,10 @@
-My Name is Rohit Kanyal
-I am FullStack WebDeveloper
-I created My online portfolio which is https://rohitkanyalportfolio.netlify.app/
-I Working on React and Angular
-I also created To do list on Angular
-I am Frontend Developre first
-Than back end developer
-I bring best of my self in team setting.
+About Me:
+My name is Rohit Kanyal and I am a Full Stack Web Developer. I have a passion for creating beautiful and functional websites using React and Angular. My online portfolio, located at https://rohitkanyalportfolio.netlify.app/, showcases some of my best work and demonstrates my skills as a Frontend Developer.
 
-My first programming Language is python
-second programming language is html/css
-I also work on different application like pycharm, Intelij, VScode, sublimeText, AtomEditor.
-I am good in term of problem solving skills
-I am a logical thinker
-I work in win-win condition to all level of problems
-I can work 24/7 
-Ping me if you need to hire me on my linked https://www.linkedin.com/in/rohit-kanyal/
+My journey in programming began with Python and I am proficient in HTML/CSS. I have experience working with different development environments such as PyCharm, Intelij, Visual Studio Code, Sublime Text, and Atom Editor. I pride myself on my problem-solving skills, logical thinking, and ability to work in a team setting. I am a hard worker and am always ready to tackle any challenge, 24/7.
 
-To know more about me you can browse my portfolio like my Articles my course my fitness routine.
-pretty much my lifestyle "become a better version of myself" is my motto.
-Adding to all of this I love to take challange and do out of the box thing on daily basis, if your looking for such person 
-Just contact me on my cell number +91 9975863035
-Happy to recevie your any request or challege 
-Just call and say github challange.
-thal all for all my readers happy coding!!
+I am dedicated to becoming a better version of myself, both professionally and personally. My motto is to continuously grow and improve, and this is reflected in my portfolio, where you can find articles about my courses, fitness routines, and lifestyle.
+
+If you are looking for a developer who is passionate about taking on challenges and delivering creative solutions, please feel free to reach out to me on my LinkedIn profile at https://www.linkedin.com/in/rohit-kanyal/ or by calling me at +91 9975863035. I am always happy to receive new requests and challenges, so just call and say "GitHub Challenge".
+
+Thank you for reading, and happy coding!
